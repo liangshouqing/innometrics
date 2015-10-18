@@ -41,4 +41,5 @@ src_managed
 target
 *.log
 *.bak
+*.docx
 metastore_db/
